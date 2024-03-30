@@ -1,0 +1,28 @@
+[project]
+name = "homework_remember"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Marcus Costa Graciano", email = "marcusviniciusgraciano04@gmail.com"},
+]
+dependencies = [
+    "django>=5.0.3",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
+
+[[tool.pdm.autoexport]]
+filename = "requirements.txt"
+without-hashes = "true"
+
+[tool.pdm.scripts]
+createsuperuser = "python manage.py createsuperuser"
+dev = "python manage.py runserver"
+makemigrations = "python manage.py makemigrations"
+migrate = "python manage.py migrate"
+shell = "python manage.py shell"
