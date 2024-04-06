@@ -22,10 +22,11 @@ Com a utilização de várias plataformas para a aplicação de tarefas e trabal
 ### Detalhes do Sistema
 
 <div style="text-align:center">
-Figura 1: Diagrama de Casos de Uso
+<p>Figura 1: Diagrama de Casos de Uso</p>
 <img src="docs/caso_de_uso.jpg" alt="Diagrama de Casos de Uso">
 
-<!-- Figura 2: Diagrama de Classes
+<!--
+<p>Figura 2: Diagrama de Classes</p>
 <img src="docs/caso_de_uso.jpg" alt="Diagrama de Classes"> -->
 
 </div>
