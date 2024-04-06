@@ -22,11 +22,13 @@ With the use of various platforms for the application of tasks and assignments, 
 ### System details
 
 <div align="center">
-Figure 1: Use Case Diagram
+<p>Figure 1: Use Case Diagram</p>
 <img src="docs/use_case.jpg" alt="Use Case Diagram">
 
-<!-- Figure 2: Class Diagram
-<img src="docs/class_diagram.jpg" alt="Class Diagram"> -->
+<br>
+
+<p>Figure 2: Class Diagram</p>
+<img src="docs/class_diagram.jpg" alt="Class Diagram">
 
 </div>
 
