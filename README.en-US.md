@@ -25,8 +25,8 @@ With the use of various platforms for the application of tasks and assignments, 
 Figure 1: Use Case Diagram
 <img src="docs/use_case.jpg" alt="Use Case Diagram">
 
-<!-- Figure 1: Use Case Diagram
-<img src="docs/use_case.jpg" alt="Use Case Diagram"> -->
+<!-- Figure 2: Class Diagram
+<img src="docs/class_diagram.jpg" alt="Class Diagram"> -->
 
 </div>
 
