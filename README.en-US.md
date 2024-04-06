@@ -21,6 +21,15 @@ With the use of various platforms for the application of tasks and assignments, 
 
 ### System details
 
+<div style="text-align:center">
+Figure 1: Use Case Diagram
+<img src="docs/use_case.jpg" alt="Use Case Diagram">
+
+<!-- Figure 1: Use Case Diagram
+<img src="docs/use_case.jpg" alt="Use Case Diagram"> -->
+
+</div>
+
 ### How it works
 
 <!-- ### Installation -->
