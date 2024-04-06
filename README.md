@@ -2,6 +2,9 @@
 
 [![pt-BR](https://img.shields.io/badge/lang-pt--BR-green.svg)](README.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en-US.md)
+[![Static Badge](https://img.shields.io/badge/python-3.11.8-blue?logo=python)](https://www.python.org/downloads/release/python-3118/)
+[![Static Badge](https://img.shields.io/badge/django-5.0.3-darkgreen?logo=django)](https://www.djangoproject.com/download/)
+[![Static Badge](https://img.shields.io/badge/vue.js-3.4.21-blue?logo=vuedotjs)](https://vuejs.org/guide/quick-start.html)
 
 ## Conteúdo
 
